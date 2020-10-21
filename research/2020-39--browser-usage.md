@@ -24,9 +24,9 @@ Environmental scan of top browser statistic in order to provide guidance for tes
 
 * Canada.ca, a Central agency
 * W3Counter Source: [https://www.w3counter.com/](https://www.w3counter.com/)
-* StatCounter Canada [http://gs.statcounter.com/browser-market-share/all/canada](http://gs.statcounter.com/browser-market-share/all/canada)
-* Wikimedia [https://analytics.wikimedia.org/dashboards/browsers/#all-sites-by-browser](https://analytics.wikimedia.org/dashboards/browsers/#all-sites-by-browser)
-* NetMarketShare [http://www.netmarketshare.com/](http://www.netmarketshare.com/)
+* StatCounter Canada: [http://gs.statcounter.com/browser-market-share/all/canada](http://gs.statcounter.com/browser-market-share/all/canada)
+* Wikimedia: [https://analytics.wikimedia.org/dashboards/browsers/#all-sites-by-browser](https://analytics.wikimedia.org/dashboards/browsers/#all-sites-by-browser)
+* NetMarketShare: [http://www.netmarketshare.com/](http://www.netmarketshare.com/)
 
 ## 4 Period Analysis
 
