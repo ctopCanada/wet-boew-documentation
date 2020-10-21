@@ -37,14 +37,14 @@ Environmental scan of top browser statistic in order to provide guidance for tes
 
 ## Result
 
-| One Year   Period:  1 Oct. 2019 - 30 Sep. 2020 | Canada.ca <br>A central agency | W3Counter | StatCounter | Wikimedia | NetMarketShare |
-|:----------------------------------------------:|:------------------------------:|:---------:|:-----------:|:---------:|:--------------:|
-|                     Chrome                     |             44.70%             |   45.84%  |    51.01%   |   47.00%  |     69.05%     |
-|                     Safari                     |             29.60%             |   13.11%  |    30.23%   |   23.30%  |     19.41%     |
-|                     Firefox                    |               N/A              |   2.35%   |    5.13%    |   4.90%   |      3.64%     |
-|                      Edge                      |              3.30%             |   4.22%   |    3.63%    |   2.00%   |      3.09%     |
-|                Samsung   Browser               |              1.50%             |   2.40%   |    3.75%    |   2.90%   |      2.53%     |
-|                      IE 11                     |               N/A              |   2.46%   |    2.59%    |   2.50%   |      2.28%     |
+|  One Year   Period:  1 Oct. 2019 - 30 Sep. 2020  |  Canada.ca <br>A central agency  |  W3Counter |  StatCounter  |  Wikimedia  |  NetMarketShare  |
+| :----------------------------------------------: |:------------------------------  :|:---------: |:-----------  :|:---------  :|:--------------  :|
+|                      Chrome                      |             44.70%               |   45.84%   |    51.01%     |   47.00%    |     69.05%       |
+|                      Safari                      |             29.60%               |   13.11%   |    30.23%     |   23.30%    |     19.41%       |
+|                      Firefox                     |               N/A                |   2.35%    |    5.13%      |   4.90%     |      3.64%       |
+|                       Edge                       |              3.30%               |   4.22%    |    3.63%      |   2.00%     |      3.09%       |
+|                 Samsung   Browser                |              1.50%               |   2.40%    |    3.75%      |   2.90%     |      2.53%       |
+|                       IE 11                      |               N/A                |   2.46%    |    2.59%      |   2.50%     |      2.28%       |
 
 
 | 6 months   Period:  1 May 2020 - 30 Sep. 2020 | Canada.ca <br>A central agency | W3Counter | StatCounter | Wikimedia | NetMarketShare |
